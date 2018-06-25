@@ -1,3 +1,5 @@
+Branch containing Fix for Android 8 (and P) document URI
+
 # cordova-plugin-filepath
 
 This plugin allows you to resolve the native filesystem path for Android content 
